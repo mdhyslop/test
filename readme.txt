@@ -6,5 +6,5 @@ a second line
 a third line
 
 #another comment
-#ooh -= this os is multi-line!
+#ooh -= this one is multi-line!
 
